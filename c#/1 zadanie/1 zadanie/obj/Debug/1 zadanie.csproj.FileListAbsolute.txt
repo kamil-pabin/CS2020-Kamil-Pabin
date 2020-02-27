@@ -1,0 +1,6 @@
+H:\c#\1 zadanie\1 zadanie\bin\Debug\1 zadanie.exe.config
+H:\c#\1 zadanie\1 zadanie\bin\Debug\1 zadanie.exe
+H:\c#\1 zadanie\1 zadanie\bin\Debug\1 zadanie.pdb
+H:\c#\1 zadanie\1 zadanie\obj\Debug\1 zadanie.csprojResolveAssemblyReference.cache
+H:\c#\1 zadanie\1 zadanie\obj\Debug\1 zadanie.exe
+H:\c#\1 zadanie\1 zadanie\obj\Debug\1 zadanie.pdb
