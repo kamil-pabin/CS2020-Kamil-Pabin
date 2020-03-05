@@ -1,0 +1,6 @@
+H:\c#\Niezbednik\Niezbednik\bin\Debug\Niezbednik.exe.config
+H:\c#\Niezbednik\Niezbednik\bin\Debug\Niezbednik.exe
+H:\c#\Niezbednik\Niezbednik\bin\Debug\Niezbednik.pdb
+H:\c#\Niezbednik\Niezbednik\obj\Debug\Niezbednik.csprojResolveAssemblyReference.cache
+H:\c#\Niezbednik\Niezbednik\obj\Debug\Niezbednik.exe
+H:\c#\Niezbednik\Niezbednik\obj\Debug\Niezbednik.pdb
