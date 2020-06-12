@@ -1,0 +1,12 @@
+C:\Users\kpabi\source\repos\fighter\fighter\bin\Release\fighter.exe.config
+C:\Users\kpabi\source\repos\fighter\fighter\bin\Release\fighter.exe
+C:\Users\kpabi\source\repos\fighter\fighter\bin\Release\fighter.pdb
+C:\Users\kpabi\source\repos\fighter\fighter\obj\Release\fighter.Form1.resources
+C:\Users\kpabi\source\repos\fighter\fighter\obj\Release\fighter.menu.resources
+C:\Users\kpabi\source\repos\fighter\fighter\obj\Release\fighter.Properties.Resources.resources
+C:\Users\kpabi\source\repos\fighter\fighter\obj\Release\fighter.csproj.GenerateResource.cache
+C:\Users\kpabi\source\repos\fighter\fighter\obj\Release\fighter.csproj.CoreCompileInputs.cache
+C:\Users\kpabi\source\repos\fighter\fighter\obj\Release\fighter.exe
+C:\Users\kpabi\source\repos\fighter\fighter\obj\Release\fighter.pdb
+C:\Users\kpabi\source\repos\fighter\fighter\obj\Release\fighter.csprojAssemblyReference.cache
+C:\Users\kpabi\source\repos\fighter\fighter\obj\Release\fighter.Sklep.resources
